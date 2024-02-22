@@ -1,4 +1,4 @@
-#Water Level Monitoring Computer Vision Task
+# Water Level Monitoring Computer Vision Task
 
 This repository contains a Python script that processes a video of a liquid level sensor and calculates the water level over time. The script uses OpenCV for image processing and matplotlib for plotting.
 
